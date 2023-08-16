@@ -1,4 +1,4 @@
-# Bot Pisher
+# heda Adbot
 
 ## How to
 Open CMD in file and run node app.js
